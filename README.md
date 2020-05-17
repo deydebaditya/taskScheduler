@@ -1,3 +1,9 @@
+SETUP GUIDE:
+1. Clone the project.
+2. This project is a gradle project, open it using any IDE of your choice and import the project using the default Gradle Wrapper setting.
+3. As this project is a Spring Boot microservice, setting up of a server is not required.
+
+
 1. The project is developed using JAVA(mininum JDK 8), Spring Boot and the build tool used is Gradle. Please extract the zip to get the whole project source code.
 2. The project use API's for inputs, which are described in the attached API usage guide.
 3. The project architecture is built to persist data too, but due to lack of time, and urgent medical issues at home, it has not been implemented, but would be a quick work, with a little time in hand.
